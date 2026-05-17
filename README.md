@@ -22,7 +22,10 @@ This project is a machine learning model designed to detect fake news using Logi
 
 The model uses two datasets:
 - **True.csv**: Contains verified real news articles.
+- **Drive Link**: https://drive.google.com/file/d/1XNsELhLrVnRAFk_lztfrH6_wyWrbCu0q/view?usp=sharing
+
 - **Fake.csv**: Contains fake news articles.
+- **Drive Link**: https://drive.google.com/file/d/1ImTqR-7uAJJOKSuJkWk49w9JGs_QZNiN/view?usp=sharing
 
 These datasets are combined into a single dataframe, with labels: 
 - `0` for real news.
